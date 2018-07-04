@@ -1,6 +1,7 @@
 # Ignore all
 *
 
+
 # Unignore all with extensions
 !*.*
 
@@ -16,3 +17,6 @@
 !*/*.*
 # Ignore all with extension .o
 */*.o
+
+# Unignore License
+!/LICENSE
