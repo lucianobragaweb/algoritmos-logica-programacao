@@ -2,7 +2,15 @@
 
 Algoritmos em linguagem Pascal desenvolvidos nas aulas de Lógica de Programação do curso de Ciências da Computação da Universidade Estadual do Vale do Acaraú - UVA
 
-## Prérequisitos
+## Motivação
+Ao organizar esse repositório pretendo ajudar de alguma forma outros estudantes do curso que por vezes tem dificuldade no entendimento e resolução dos algoritmos propostos nos exercícios de lógica de programação, além de ser é uma boa maneira de manter um histórico dos exercícios realizados para estudo posterior.
+
+## Organização
+Os arquivos estão organizados em pastas contendo um arquivo com o código fonte do programa juntamente com um README.md que contém a questão que aquele algoritmo resolve e quaisquer outras informações e ou observações sobre a resolução do problema.
+
+## Pré-requisitos
+
+Alguns pré-requisitos simples são nescessários para editar e compilar os arquivos de código.
 
 ### Compilador
 
@@ -16,7 +24,7 @@ Para compilar os arquivos será nescessário instalar o compilador da linguagem 
 
 ### Editor de Textos
 
-Pode usar até mesmo o **Bloco de Notas** ou qualquer outro editor de texto puro. Mas se prefere um editor que ofereça o recurso de sintaxhilight pode usar **Sublime Text**, **Atom.io**, **Visual Studio code** ou qualquer outro das sua preferência.
+Pode usar até mesmo o **Bloco de Notas** ou qualquer outro editor de texto puro. Mas se prefere um editor que ofereça o recurso de `sintaxhighlight` pode usar **Geany**, **Sublime Text**, **Atom.io**, **Visual Studio code** ou qualquer outro das sua preferência.
 
 O editor **Geany** parece ser o mais apropriado por já dispor de ferramentas de compilação e execução dos programas mais facilmente.
 
