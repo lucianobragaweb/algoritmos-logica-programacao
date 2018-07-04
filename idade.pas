@@ -7,7 +7,7 @@ var
 	years, months, days, weeks: integer;
 
 begin
-
+	
 	writeln('Enter Current Year:');
 	readln(currentYear);
 	writeln('Enter the year of birth:');

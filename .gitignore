@@ -4,6 +4,7 @@
 
 # Unignore all with extensions
 !*.*
+!/.gitignore
 
 # Ignore all with extension .o
 *.o
