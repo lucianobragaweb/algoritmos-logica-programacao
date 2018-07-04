@@ -7,5 +7,12 @@
 # Ignore all with extension .o
 *.o
 
-# Unignore all dirs
+# Rules for dirs
+# Unignore dirs
+!*/
+# Ignore all files in dir
+*/*
+# Unignore all with extensions on dir
 !*/*.*
+# Ignore all with extension .o
+*/*.o

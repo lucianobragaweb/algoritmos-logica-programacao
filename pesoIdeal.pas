@@ -1,16 +1,15 @@
-program pesoIdealMulher;
+program IdealWomanWeight;
 uses crt;
 
 var
-	altura, pesoIdeal: real;
-	
+	height, idealWeight: real;
+
 begin
-	writeln('Qual sua Altura?');
-	readln(altura);
-	
-	pesoIdeal := (62.1 * altura) - 44.7;
-	
-	writeln('Seu peso ideal é: ', pesoIdeal:1:1)
-	
+	writeln('What is your height?');
+	readln(height);
+
+	idealWeight := (62.1 * height) - 44.7;
+
+	writeln('Your ideal weight is: ', idealWeight:1:1)
+
 end.
-	
