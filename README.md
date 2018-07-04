@@ -4,16 +4,17 @@ Algoritmos em linguagem Pascal desenvolvidos nas aulas de Lógica de Programaç�
 
 ## Prérequisitos
 
-#### Compilador
+### Compilador
 
 Para compilar os arquivos será nescessário instalar o compilador da linguagem Pascal. Download: <https://www.freepascal.org/download.var>
 
 **Linux** - Instalação em sistemas baseados no Debian (Ubuntu, Mint, etc...)
+
 `sudo apt install fpc`
 
 **Windows** - Baixar o compilador no site oficial <https://www.freepascal.org/download.var> e seguir as instruções.
 
-#### Editor de Textos
+### Editor de Textos
 
 Pode usar até mesmo o **Bloco de Notas** ou qualquer outro editor de texto puro. Mas se prefere um editor que ofereça o recurso de sintaxhilight pode usar **Sublime Text**, **Atom.io**, **Visual Studio code** ou qualquer outro das sua preferência.
 
