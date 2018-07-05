@@ -39,10 +39,5 @@ Por fim, calcule a média das três médias e escreva todos os números e todas 
 
 * Faça um algoritmo para ler o raio e calcular o comprimento, a área e o volume de uma esfera.
 Algumas informações úteis
-• IM C = \frac{peso}{(h)^2}
-• Área do triângulo: A = \frac{b.h}{2}
-• Perímetro do retângulo: P = lado1 + lado2 + lado3 + lado4
-• Área do retângulo: A = base × altura
-• Comprimento da esfera: 2 · π · R
-• Área da esfera: A = π · R^2
-• Volume da esfera: V = \frac{3}{4} π · R^3
+
+![Informações Úteis](./formulas.png)
