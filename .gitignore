@@ -1,7 +1,6 @@
 # Ignore all
 *
 
-
 # Unignore all with extensions
 !*.*
 !/.gitignore
@@ -11,13 +10,13 @@
 
 # Rules for dirs
 # Unignore dirs
-!*/
+!**/
 # Ignore all files in dir
-*/*
+**/*
 # Unignore all with extensions on dir
-!*/*.*
+!**/*.*
 # Ignore all with extension .o
-*/*.o
+**/*.o
 
 # Unignore License
 !/LICENSE
