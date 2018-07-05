@@ -1,0 +1,30 @@
+# Ignore all
+# *
+
+*
+!/**/
+!*.*
+*.o
+*.c
+
+# Unignore all with extensions
+# !*.*
+# !/.gitignore
+
+# Ignore all with extension .o
+# **/*
+# !**/*.pas
+# !**/*.md
+
+# Rules for dirs
+# Unignore dirs
+# !**/
+# Ignore all files in dir
+# **/*
+# Unignore all with extensions on dir
+# !**/*.*
+# Ignore all with extension .o
+
+
+# Unignore License
+!/LICENSE
