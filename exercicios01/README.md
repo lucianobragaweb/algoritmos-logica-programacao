@@ -1,4 +1,4 @@
-# LÓGICA DE PROGRAMAÇÃO EXERCÍCIOS DE APRENDIZADO 01
+# EXERCÍCIOS DE APRENDIZADO 01
 
 1. Construa um algoritmo que leia um número inteiro e depois de lido escreva o número.
 2. Construa um algoritmo que leia o nome de uma pessoa e escreva o nome depois de lido.
